@@ -1,0 +1,26 @@
+{
+  "name": "js-intro-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palfonsoag/node-js-intro-course.git"
+  },
+  "keywords": [
+    "node",
+    "intro",
+    "course",
+    "nodejs",
+    "js"
+  ],
+  "author": "Pedro Garcia <p.alfonsoag@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Palfonsoag/node-js-intro-course/issues"
+  },
+  "homepage": "https://github.com/Palfonsoag/node-js-intro-course#readme"
+}
